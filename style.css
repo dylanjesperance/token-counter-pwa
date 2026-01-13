@@ -12,3 +12,9 @@ textarea, button {
   border:none;
   border-radius:12px;
 }
+
+h1 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}

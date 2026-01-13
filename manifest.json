@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "short_name": "MyApp",
+  "name": "Token Counter",
+  "short_name": "Tokens",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#2b2e33",

@@ -1,0 +1,14 @@
+body {
+  background:#2b2e33;
+  color:white;
+  padding:20px;
+  font-family:system-ui;
+}
+
+textarea, button {
+  width:100%;
+  padding:14px;
+  margin-top:10px;
+  border:none;
+  border-radius:12px;
+}
